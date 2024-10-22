@@ -9,7 +9,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    ffi (1.9.3)
+    ffi (1.9.24)
     msgpack (0.5.7)
     trollop (2.0)
 
